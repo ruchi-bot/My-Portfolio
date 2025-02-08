@@ -1,0 +1,46 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  padding: 58px 10%;
+  border-radius: 10px;
+}
+
+.text {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.text h2 {
+  font-size: 4rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  border-bottom: 2px solid gray;
+  padding-bottom: 5px;
+  color: var(--color-text);
+}
+
+.text p {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.skillsList {
+  list-style: none;
+  padding: 0;
+}
+
+.skillCategory {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  color: var(--color-text-secondary);
+}
+
+.skillCategory strong {
+  color: var(--color-text);
+  font-weight: 700;
+}
+
