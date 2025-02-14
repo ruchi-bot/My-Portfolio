@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Language Translator",
+      "imageSrc": "project.png",
+      "description": "Developed a web-based application that translates text from one language to another, facilitating communication across different languages by providing accurate and fast translations.",
+      "skills": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "title": "Weather Dashboard",
+      "imageSrc": "project.png",
+      "description": "Provides live weather updates including temperature, humidity, wind speed, and precipitation.",
+      "skills": ["React", "JavaScript", "CSS"]
+
+    }
+  ]
